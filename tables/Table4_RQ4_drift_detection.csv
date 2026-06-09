@@ -1,0 +1,7 @@
+Dataset,Target,Method,Actual Drift Index,Detected Drift Index,Detection Delay (time steps),False Positive,Accuracy Preserved (%)
+Air Quality,CO(GT),Page-Hinkley,899,11,0.0,1,82.49074976916006
+Air Quality,CO(GT),KS-Test,899,248,0.0,1,82.49074976916006
+Air Quality,CO(GT),Rolling-Z,899,Not detected,,0,82.49074976916006
+Appliances Energy,Appliances,Page-Hinkley,899,9,0.0,1,107.50484786253669
+Appliances Energy,Appliances,KS-Test,899,178,0.0,1,107.50484786253669
+Appliances Energy,Appliances,Rolling-Z,899,Not detected,,0,107.50484786253669

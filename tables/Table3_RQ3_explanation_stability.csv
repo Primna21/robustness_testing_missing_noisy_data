@@ -1,0 +1,13 @@
+Dataset,Target,Scenario,Spearman Correlation vs Clean
+Air Quality,CO(GT),Clean,1.0
+Air Quality,CO(GT),Missing 10%,0.7453472599023332
+Air Quality,CO(GT),Missing 20%,0.7741861096039067
+Air Quality,CO(GT),Missing 30%,0.6550596852957135
+Air Quality,CO(GT),Noise 10%,0.920604991861096
+Air Quality,CO(GT),Noise 20%,0.7072300596852958
+Appliances Energy,Appliances,Clean,1.0
+Appliances Energy,Appliances,Missing 10%,0.8462022207986335
+Appliances Energy,Appliances,Missing 20%,0.6637700192184498
+Appliances Energy,Appliances,Missing 30%,0.5337700192184498
+Appliances Energy,Appliances,Noise 10%,0.8068417680973736
+Appliances Energy,Appliances,Noise 20%,0.588224428784967
