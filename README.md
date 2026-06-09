@@ -1,4 +1,4 @@
-<img width="1467" height="55" alt="image" src="https://github.com/user-attachments/assets/922085a3-db90-406f-a195-cd776be508bb" />Robustness Testing under Missing and Noisy Data
+Robustness Testing under Missing and Noisy Data
 
 Author: Primna Toms
 
